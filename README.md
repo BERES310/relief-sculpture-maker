@@ -109,4 +109,4 @@ For an input image `lion.jpg`, the script:
 This script is provided for educational and personal use. Ensure you have the necessary permissions for the input images and comply with the licenses of the dependencies (e.g., MiDaS, `rembg`).
 
 ## Contact
-For issues or suggestions, please open an issue on the project repository or contact the maintainer.
+For issues or suggestions, please open an issue on the project repository.
